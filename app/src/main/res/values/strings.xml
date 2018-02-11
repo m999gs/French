@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">French Translation</string>
+    <string name="numbers">Numbers</string>
+    <string name="family">Relations</string>
+    <string name="colors">Colors</string>
+    <string name="phrases">Phrases</string>
+    <string name="image1">image1</string>
+    <string name="image2">image2</string>
+    <string name="swipe_up">Swipe up for google translate</string>
+    <string name="all_you_need_to_learn">ALL YOU NEED TO LEARN</string>
+    <string name="enter_english_text_here">Enter english text here</string>
+    <string name="traslate_sentence">Traslate Sentence</string>
+    <string name="translate">Translate</string>
+</resources>
